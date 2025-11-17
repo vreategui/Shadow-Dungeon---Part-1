@@ -1,0 +1,26 @@
+af107fc - vreateguigut, 9 minutes ago : git_log
+d3f5626 - vreateguigut, 10 minutes ago : git_log
+eb81acc - vreateguigut, 23 minutes ago : Edit README.md
+13bc770 - vreateguigut, 30 minutes ago : fixed player position when player loses game
+1164e15 - vreateguigut, 39 minutes ago : added comments and simplified classes
+9c9a5c8 - vreateguigut, 6 hours ago : renderStats methods was called many times for no reason..fixed
+833d264 - vreateguigut, 7 hours ago : restart button implementation
+37331f4 - vreateguigut, 7 hours ago : river & wall implementation
+c748e19 - vreateguigut, 7 hours ago : doors work
+7d7c8d6 - vreateguigut, 7 hours ago : doors implementation with bug
+9a4c103 - vreateguigut, 33 hours ago : rooms call treasure method & fixed magic number & draw image method
+b3de455 - vreateguigut, 33 hours ago : fixed improper calling of rendStats & additioin of method treasureCollected
+b7332df - vreateguigut, 35 hours ago : addition of more class variables & and methods  & wall/river addition
+2d5f39b - vreateguigut, 2 days ago : implementation of method touches and renderStats
+60538e2 - vreateguigut, 2 days ago : restart of project, added character, battle rooms, prep room and end room classes, render messages
+8a289d5 - vreateguigut, 2 days ago : finalised old version of project
+d6ee3cc - vreateguigut, 4 days ago : reseting of game button
+f6d29a1 - vreateguigut, 6 days ago : to be made
+63d9ad3 - vreateguigut, 6 days ago : implementation of bullet andunlocking doors when touched
+4273041 - vreateguigut, 8 days ago : fixed bug and implementation of wall boundaries
+384b217 - vreateguigut, 9 days ago : addition of enemy &  player movement
+3a5fdcf - vreateguigut, 9 days ago : room design
+8c5f910 - vreateguigut, 9 days ago : implementation of Room class
+f10d5fc - vreateguigut, 9 days ago : implementation of Room class
+ffdb449 - vreateguigut, 12 days ago : Initial Commit
+7ff9f2b - vreateguigut, 13 days ago : initial
